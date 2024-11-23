@@ -1,0 +1,21 @@
+.box{
+   background-color: #540b0e;
+   color: #fff3b0;
+   display: inline-block;
+   padding: 100px;
+   border-radius: 25px;
+   display: inline-block;
+   margin-left: 500px;
+}
+body{
+   background-image: url("Butterfly\ Dictionary\ Drawing\ Instant\ Printable\ Download.jpeg");
+}
+
+.wordsWritten{
+   display: inline-block;
+}
+
+.buttonToSearch{
+   padding-left: 9px;
+   padding-top: px;
+}
